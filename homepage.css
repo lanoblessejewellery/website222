@@ -37,12 +37,9 @@ section.delivery p{
 
 .logo p.aurum{
     margin-top: 40px;
-    font-size: 30px;
-    font-style: italic;
+    font-size: 25px;
     color: rgb(224, 142, 41);
     margin-bottom: 0;
-    font-weight: bold;
-    font-family: Ink Free;
 }
 
 .logo h1:hover{
@@ -113,10 +110,6 @@ hr{
     background-color: white;
 }
 
-#backtotop a:hover{
-    background-color: rgb(223, 216, 170);
-}
-
 .footer{
     background-color: black;
     color: white;
@@ -136,7 +129,7 @@ hr{
     }
 
     .logo p.aurum{
-        font-size: 35px;
+        font-size: 30px;
         margin-top: 40px;
     }
 
@@ -199,7 +192,7 @@ hr{
     }
 
     .logo p.aurum{
-        font-size: 45px;
+        font-size: 40px;
         margin-top: 70px;
     }
 
@@ -250,3 +243,4 @@ hr{
     }
 
 }
+
